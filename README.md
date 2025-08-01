@@ -3,9 +3,9 @@ This project visualizes the historical prices of lager beer in three European co
 <img width="1376" height="743" alt="image" src="https://github.com/user-attachments/assets/9b9009a3-07db-4eb9-bbb3-d3dd8b15e041" />
 # Features
 ## Gauge Indicators showing the latest lager prices (in thousand units):
-🇫🇷 France: 13.26k
-🇬🇷 Greece: 14.65k
-🇩🇪 Germany: 13.65k
+### 🇫🇷 France: 13.26k
+### 🇬🇷 Greece: 14.65k
+### 🇩🇪 Germany: 13.65k
 
 Line Chart tracking lager price trends from 2015 to 2025.
 
